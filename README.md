@@ -24,6 +24,7 @@ The following artifacts reflect my talents and the project's goals:
 2. **Task Scheduler Flow Diagram:**  
     - Visualizes the execution of tasks such as reading temperature, updating heater state, and sending system status to the cloud.  
     - Highlights the periodic task execution (200 ms, 300 ms, and 500 ms intervals).  
+![ProjectOne_TaskScheduler drawio](https://github.com/user-attachments/assets/ddb64d7e-c1fd-42da-8cdf-f7ca3d00ecc0)
 
 ---
 
